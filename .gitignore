@@ -1,0 +1,15 @@
+# Python Virtual Environments & Caches
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Go Build Artifacts (if applicable)
+/go/bin/
+/go/pkg/
+*.exe
+
+# Operating System Files
+.DS_Store
+Thumbs.db
